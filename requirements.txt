@@ -18,6 +18,7 @@ django-rest-knox==4.1.0
 django-suit==0.2.28
 djangorestframework==3.11.1
 entrypoints==0.3
+gunicorn
 idna==2.10
 image==1.5.33
 ipykernel==5.3.4
